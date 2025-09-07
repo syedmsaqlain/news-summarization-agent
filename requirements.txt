@@ -1,0 +1,13 @@
+# Core
+langgraph
+langchain
+scikit-learn
+requests
+feedparser
+openai
+python-dotenv
+
+# Optional / agent orchestration
+# If "langgraph" is available via pip in your environment, install it:
+# pip install langgraph
+# Fallback: this project includes a small local graph runner.
