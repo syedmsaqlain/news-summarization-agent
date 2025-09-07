@@ -6,6 +6,14 @@ requests
 feedparser
 openai
 python-dotenv
+newspaper3k
+streamlit
+lxml_html_clean
+langchain_google_genai
+fpdf
+reportlab
+
+
 
 # Optional / agent orchestration
 # If "langgraph" is available via pip in your environment, install it:
